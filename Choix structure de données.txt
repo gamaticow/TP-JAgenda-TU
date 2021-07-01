@@ -1,0 +1,8 @@
+Nous avons le choix entre la HashMap, la TreeMap et le TreeSet.
+La HashMap et la TreeMap hérite de Map alors que la TreeSet hérite de Set.
+La TreeMap et la TreeSet peuvent trier leur contenu en passant un comparateur au moment de la création.
+Le trie des rendez-vous est important dans la structure interne de gestion car les rendez-vous sont classé par date et heure.
+La méthode de trie est est un arbre binaire de recherche.
+
+Il ne reste plus qu'a choisir entre une Map et un Set.
+La map sera plus pratique car elle permet d'effectuer des actions de recherche au travers des entrées.
